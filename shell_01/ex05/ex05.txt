@@ -1,0 +1,4 @@
+nome do arquivo: "\?$*'MaRViN'*$?\"
+Conteudo do Arquivo: 42
+
+Sem quebras de linha
